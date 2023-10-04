@@ -1,4 +1,4 @@
-local webhook = 'https://discord.com/api/webhooks/794144881588961310/6SJYFpSdmd8xyTgMcWWI3awUDoF7uQT7wbZ53uTNscMm0YIt_DMF7Ti16PAn3H3MX4JW'
+local webhook = 'https://discord.com/api/webhooks/1159091706499694652/Olng4hY0JDfFonVB_P9bg4aeVcRUkkK5yql5ytzoq9SfbgVeGBp38t5bayypK9vWlJ19'
 
 
 RegisterServerEvent('sway:arthur-morgan-best-story-char-ever')
